@@ -1,0 +1,13 @@
+section {
+    margin: 50px;
+    line-height: 25px;
+}
+.like {
+    color: purple;
+}
+#likes {
+   color: blue;
+}
+#dont-like {
+    color: brown;
+}
